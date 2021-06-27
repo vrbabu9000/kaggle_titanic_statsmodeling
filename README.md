@@ -2,6 +2,8 @@
 ### Overview:
 - The Titanic: Machine Learning from Disaster competition on Kaggle is a beginner level Modeling competition. There are many controversies revolving around the survivors of the disaster. My quest was to determine the factors that contributed to the survival rates of people. There are a number of attributes which was thoroughly studied. I had the opportunity to try out advanced Feature Engineering and complex ensemble models during this competition.
 - I am extremely thankful to the Kaggle community and have referred tons of kernels before writing mine. 
+- I highly reccomend viewing the notebook at https://nbviewer.jupyter.org/github/vrbabu9000/kaggle_titanic_statsmodeling/blob/master/Titanic.ipynb
+- Github Repo renders the static notebook and hence, the plotly visualizations cannot be viewed here.
 #### Task: 
 - We need to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 #### Attributes Table:
